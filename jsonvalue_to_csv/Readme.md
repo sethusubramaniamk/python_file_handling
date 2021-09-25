@@ -8,7 +8,7 @@ Note:
  
 1. For more information, type in the following command,
 
-  _sudo python3 json_to_csv.py --help
+  _sudo python3 json_to_csv.py --help_
 
 2. If the CSV output filename is not specified, the values of the respective JSOn key only will be printed and not stored in a file.
 
