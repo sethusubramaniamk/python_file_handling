@@ -2,7 +2,7 @@ This script is used to list all the files & folders in a directory or list files
 
 **Example Format:**
 
-  sudo python3 list_dir_elements.py -d ./newfolder -e .txt
+  _sudo python3 list_dir_elements.py -d ./newfolder -e .txt_
 
 **Note:**
 
