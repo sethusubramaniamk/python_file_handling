@@ -10,6 +10,6 @@ Note:
 
     _sudo python3 json_to_csv.py --help_
 
-2. If the CSV output filename is not specified, the values of the respective JSOn key only will be printed and not stored in a file.
+2. If the CSV output filename is not specified, the values of the respective JSON key only will be printed and not stored in a file.
 
 3. If the target directory is not specified, the current working directory will be taken as default.
