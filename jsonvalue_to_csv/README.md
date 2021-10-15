@@ -1,8 +1,12 @@
 This script is to extract the value of a key from a list of JSON files and store them in a CSV file
 
-**Example Format:**
+**Format:**
 
-  _sudo python3 json_to_csv.py -d <input_directory> -k <json_key> -s <output.csv>_
+  _sudo python3 json_to_csv.py -d <input_directory> -k <json_key> -s <output_file_name>_
+  
+**Example:**
+
+  _sudo python3 json_to_csv.py -d ./newfolder -k name -s output.csv_
 
 Note:
  
